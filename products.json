@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mediterranean-oil",
+    "name": "지중해 프리미엄 오일",
+    "origin": "Mediterranean",
+    "category": "OIL & SAUCE",
+    "description": "식탁의 기본을 더 깊게 만드는 산지별 오일 컬렉션입니다.",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "도입 문의"
+  },
+  {
+    "id": "european-dairy",
+    "name": "유럽 스페셜티 유제품",
+    "origin": "Europe",
+    "category": "DAIRY & CHEESE",
+    "description": "레시피의 중심이 되는 버터와 치즈를 제안합니다.",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "샘플 문의"
+  },
+  {
+    "id": "asian-pantry",
+    "name": "아시아 팬트리 셀렉션",
+    "origin": "Asia",
+    "category": "PANTRY",
+    "description": "새로운 메뉴에 영감을 더하는 향신료와 소스입니다.",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "도입 문의"
+  },
+  {
+    "id": "dessert-ingredients",
+    "name": "디저트 원료 셀렉션",
+    "origin": "Global",
+    "category": "BAKERY & DESSERT",
+    "description": "디저트의 질감과 향을 완성하는 특별한 원료들입니다.",
+    "image": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "도입 문의"
+  },
+  {
+    "id": "frozen-seafood",
+    "name": "냉동 해산물 큐레이션",
+    "origin": "Ocean Route",
+    "category": "FROZEN",
+    "description": "메뉴의 가능성을 넓히는 엄선된 해산물 컬렉션입니다.",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "상담 문의"
+  },
+  {
+    "id": "seasonal-fruit",
+    "name": "시즌 프루트 노트",
+    "origin": "Seasonal",
+    "category": "FRESH",
+    "description": "계절마다 가장 빛나는 과일의 도착 소식입니다.",
+    "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=1000&q=85",
+    "link": "contact.html",
+    "linkLabel": "입고 문의"
+  }
+]

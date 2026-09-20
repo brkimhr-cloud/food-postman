@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "taste-of-mediterranean",
+    "date": "2026.09.18",
+    "category": "FIELD NOTE",
+    "title": "한 병의 오일에 담기는, 지중해의 계절",
+    "excerpt": "산지의 날씨와 수확 시점이 식탁 위의 향이 되기까지. 오일을 고르는 작은 기준에 관해 이야기합니다.",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1200&q=85",
+    "content": ["좋은 식자재는 생산지의 풍경을 품고 있습니다. 우리는 상품의 이름만이 아니라, 그 안에 담긴 계절과 생산자의 태도를 함께 살펴봅니다.", "푸드집배원의 첫 번째 노트는 지중해의 올리브 과수원에서 시작됩니다. 수확의 시기와 보관 방식, 한국의 주방에 도착했을 때 가장 잘 살아날 향까지 생각하며 다음 소포를 준비합니다."]
+  },
+  {
+    "slug": "cold-route-note",
+    "date": "2026.09.05",
+    "category": "DELIVERY ROUTE",
+    "title": "신선함은 이동 중에 결정됩니다",
+    "excerpt": "산지에서 고객의 주방까지, 식자재마다 다른 여정을 설계하는 이유를 소개합니다.",
+    "image": "https://images.unsplash.com/photo-1586528116493-da8c0f4c7f24?auto=format&fit=crop&w=1200&q=85",
+    "content": ["식자재의 품질은 도착하는 순간에도 지켜져야 합니다. 그래서 우리는 이동의 모든 구간을 하나의 중요한 경험으로 봅니다.", "각 품목에 필요한 정보와 조건을 확인하며, 파트너와 고객 모두가 다음 일정을 준비할 수 있는 흐름을 만들고자 합니다."]
+  },
+  {
+    "slug": "new-flavor-radar",
+    "date": "2026.08.22",
+    "category": "TASTE RADAR",
+    "title": "요즘 주방이 주목하는 새로운 질감들",
+    "excerpt": "다음 메뉴를 위한 영감은 낯선 재료의 작은 변화에서 시작됩니다.",
+    "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=85",
+    "content": ["미식의 트렌드는 거창한 변화보다, 한 접시의 질감과 향에서 먼저 감지되곤 합니다.", "푸드집배원은 전 세계의 새로운 재료를 관찰하고, 한국의 주방에서 어떤 가능성을 만들지 함께 고민합니다."]
+  }
+]
